@@ -1,0 +1,23 @@
+From: support@official-bankofamerica.com
+To: neel.bhatt@example.com
+Subject: URGENT ACTION REQUIRED: Your Account Access is at Risk!
+Date: Tue, 24 Jun 2025 09:00:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer, Neel Bhatt,
+
+We have detected unusual activity on your Bank of America account. To secure your funds, please verify your identity immediately by clicking the link below:
+
+https://bank-of-america-login-sec.com/verify?user=neel&id=12345
+
+**WARNING**: Failure to act within the next 24 hours will result in a permanent suspension of your account. This is a critical security measure to protect you.
+
+Attached, please find an important document for your review (account_update.zip).
+
+Sincerely,
+The Bank of America Security Team
+support@official-bankofamerica.com
+[Note: Hover over the link to see the real URL]
+
+P.S. Act quick—dont miss this deadline!

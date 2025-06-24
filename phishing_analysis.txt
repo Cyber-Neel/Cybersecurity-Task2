@@ -1,0 +1,15 @@
+# Phishing Email Analysis
+     Author: Neel Bhatt
+     Date: June 24, 2025
+
+     ## Suspicious Signs
+     - Sender looks fake: "support@official-bankofamerica.com" isn’t the real bank domain (should be bankofamerica.com).
+     - Bad link: "https://bank-of-america-login-sec.com/verify" is not a trusted site.
+     - Urgent words: "URGENT ACTION REQUIRED" and "permanent suspension" try to rush you.
+     - Suspicious attachment: "account_update.zip" could contain malware.
+     - Grammar error: "dont miss" (missing apostrophe) suggests a phishing attempt.
+
+     ## Summary
+     This email has clear phishing signs like a fake sender, bad link, urgent language, a risky attachment, and a grammar mistake. Don’t click the link or open the attachment—delete it and report it.
+
+     Neel Bhatt
