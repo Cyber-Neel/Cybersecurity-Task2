@@ -2,8 +2,6 @@ From: support@official-bankofamerica.com
 To: neel.bhatt@example.com
 Subject: URGENT ACTION REQUIRED: Your Account Access is at Risk!
 Date: Tue, 24 Jun 2025 09:00:00 +0530
-MIME-Version: 1.0
-Content-Type: text/plain; charset="UTF-8"
 
 Dear Valued Customer, Neel Bhatt,
 
